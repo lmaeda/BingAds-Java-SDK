@@ -153,7 +153,7 @@
         <dependency> 
             <groupId>jakarta.xml.ws</groupId> 
             <artifactId>jakarta.xml.ws-api</artifactId> 
-            <version>3.0.0</version>
+            <version>3.0.1</version>
         </dependency>
         <dependency>
           <groupId>com.sun.xml.messaging.saaj</groupId>
